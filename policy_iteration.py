@@ -3,6 +3,7 @@ Policy Iteration Algorithm
 
 SARSA
 
+Example of the maze :
 [[0,1,0,0],
  [0,0,1,0],
  [0,0,0,1],
